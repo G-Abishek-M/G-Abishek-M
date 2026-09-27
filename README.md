@@ -1,158 +1,149 @@
-<div align="center">
-
-<img src="./assets/hero.svg" alt="Abishek GM — Creative Developer" width="100%"/>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-G--Abishek--M-0B0D20?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/G-Abishek-M)
-[![Repositories](https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/G-Abishek-M?tab=repositories)
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## ✦ A little about me
-
-I'm **Abishek GM**, a developer interested in the space where **frontend development, AI, and visual creativity** overlap.
-
-I like taking an idea from a rough concept to a working interface — experimenting with layouts, interactions, responsive design, and practical tools along the way.
-
-```text
-01  BUILD       →       02  EXPERIMENT       →       03  REFINE
-     ideas              new technology              better experiences
-```
-
----
-
-## ◇ What I work with
+<!--
+  BEFORE YOU PUBLISH:
+  1. Create a repo named EXACTLY your GitHub username (github.com/G-Abishek-M/G-Abishek-M) — GitHub turns this into your profile README.
+  2. Upload header-stars.svg and footer-stars.svg (provided alongside this file) into that repo, e.g. in an /assets folder.
+  3. If your default branch isn't "main", update the two raw.githubusercontent.com URLs below to match.
+-->
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-11152B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-11152B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-11152B?style=for-the-badge&logo=python&logoColor=7DD3FC)
-![HTML5](https://img.shields.io/badge/HTML5-11152B?style=for-the-badge&logo=html5&logoColor=FF7A59)
-![CSS3](https://img.shields.io/badge/CSS3-11152B?style=for-the-badge&logo=css3&logoColor=67D9FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-11152B?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![React Native](https://img.shields.io/badge/React_Native-11152B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-11152B?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-11152B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+<!-- Animated starfield header -->
+<img src="https://raw.githubusercontent.com/G-Abishek-M/G-Abishek-M/main/assets/header-stars.svg" width="100%"/>
+
+<!-- Typing animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3000&pause=1000&color=FF3E80&center=true&vCenter=true&width=650&lines=Data+Science+Student;Web+Developer+at+Heart;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+ReactJS+%E2%80%A2+Python;Building+on+4GB+RAM+%E2%80%94+Constraint+as+Craft;Designing+in+Figma%2C+Coding+in+Sublime" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br>
 
-## ✧ Selected work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3E80,100:7B2FF7&height=3&section=header&width=100%"/>
 
-### 01 — Zoros Dashboard
-A frontend dashboard project focused on structured information, interface layout, and responsive presentation.
+## 🎨 The Artist's Statement
 
-**Stack / focus:** `Frontend` `UI` `Dashboard`
+I approach engineering the way a painter approaches a blank canvas — constraints aren't limitations, they're the frame that shapes the work. Every project I build runs on a **4GB RAM machine**, which means every line of code is deliberate: lightweight tooling, no-build-step workflows, and clean, purposeful interfaces over brute force.
 
-→ **[Open repository](https://github.com/G-Abishek-M/Zoros-dashboard)**
+I'm a **Data Science student** with a real passion for **web development** — I learn by building. My canvas right now is **HTML, CSS, JavaScript, ReactJS, and Python**, with **Figma** for design, **Sublime Text** for code, and **Web3Forms** for wiring up contact forms without a backend.
 
-### 02 — Netflix Dashboard
-A Netflix-inspired dashboard interface exploring content presentation, navigation, and responsive frontend design.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3E80,100:7B2FF7&height=3&section=header&width=100%"/>
 
-**Stack / focus:** `Frontend` `UI` `Responsive Design`
+## 🎓 Background & Goals
 
-→ **[Open repository](https://github.com/G-Abishek-M/Netflix-dashboard)**
+- 🏫 Third-year undergraduate student, specializing in **Data Science**, with a strong pull toward web development
+- 🏭 Comes from a manufacturing-connected background — a long-standing interest in **robotics, digital twins, and industrial technology** shapes how I approach problems
+- 🎯 Actively seeking **internship opportunities** to grow as an engineer
+- 🚀 Building Zoros as a startup — a local home-services marketplace platform, from the website to the business dashboard
 
-### 03 — Lizard
-A web project built around interactive frontend development and experimentation.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3E80,100:7B2FF7&height=3&section=header&width=100%"/>
 
-**Stack / focus:** `Web` `Frontend` `JavaScript`
+## 🖌️ Current Works in Progress
 
-→ **[Open repository](https://github.com/G-Abishek-M/Lizard)**
-
-### 04 — Lizard Code Editor
-A lightweight developer-tool project exploring the interface and workflow of a browser-based coding experience.
-
-**Stack / focus:** `Editor` `Frontend` `Developer Tools`
-
-→ **[Open repository](https://github.com/G-Abishek-M/Lizard-Code-Editor)**
-
-<details>
-<summary><b>More from my repositories</b></summary>
-
-<br/>
-
-**Abishek** — personal/project repository  
-→ [Open repository](https://github.com/G-Abishek-M/Abishek)
-
-**All repositories**  
-→ [github.com/G-Abishek-M?tab=repositories](https://github.com/G-Abishek-M?tab=repositories)
-
-</details>
-
----
-
-## ◎ Currently exploring
-
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### AI
-Personal assistants<br/>
-AI-powered interfaces<br/>
-Automation
+### 📊 Zoros Business Dashboard
+An interactive data analysis project built with Python, Pandas, and Streamlit — turns raw business data into insights through dynamic filters and Matplotlib/Plotly visualizations for data-driven decision-making.
 
-</td>
-<td width="33%" align="center">
+`Python` `Pandas` `Streamlit` `Plotly`
 
-### FRONTEND
-React<br/>
-Responsive UI<br/>
-Interaction & motion
+[![View Repo](https://img.shields.io/badge/View%20Repo-GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=FFF6F0)](https://github.com/G-Abishek-M/Zoros-dashboard-)
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### CREATIVE TECH
-Visual systems<br/>
-Experiments<br/>
-Developer tools
+### 🏠 Zoros — Website
+The public-facing marketplace site for Zoros, a local home-services platform, rebuilt with a deliberate teal/rust color-mixing design strategy.
+
+`HTML` `CSS` `JavaScript`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=FFF6F0)](https://github.com/G-Abishek-M/Zoros-dashboard-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Netflix Analysis Dashboard
+An interactive data analysis project built with Python, Pandas, and Streamlit — uncovers insights on genres, ratings, and content trends in the Netflix dataset through dynamic Matplotlib/Plotly visualizations.
+
+`Python` `Pandas` `Streamlit` `Matplotlib`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=FFF6F0)](https://github.com/G-Abishek-M/Netflix-dashboard-)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Lizard Code Editor
+A flexible online code editor that can run HTML and Python code directly in the browser.
+
+`Online IDE` `HTML` `Python`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=FFF6F0)](https://github.com/G-Abishek-M/Lizard-Code-Editor)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3E80,100:7B2FF7&height=3&section=header&width=100%"/>
 
-## ⌁ GitHub snapshot
+## 🧪 Other Projects & Experiments
 
-<div align="center">
+- **GNR Billing & Stock App** — a desktop billing and inventory app for a packaged drinking-water brand, designed end-to-end in Figma with GST-compliant invoicing
+- **Campus Navigation Web App** — an SVG-based pathfinding tool for navigating a campus layout
 
-<img src="https://github-readme-stats.vercel.app/api?username=G-Abishek-M&show_icons=true&hide_border=true&bg_color=0B0D20&title_color=C4B5FD&text_color=D9D5E8&icon_color=67D9FF&ring_color=A78BFA" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=G-Abishek-M&hide_border=true&background=0B0D20&ring=A78BFA&fire=FF9BCB&currStreakLabel=C4B5FD&sideLabels=D9D5E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8D89A4" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3E80,100:7B2FF7&height=3&section=header&width=100%"/>
 
-</div>
-
-<br/>
+## 🧰 Materials & Medium
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Abishek-M&bg_color=0B0D20&color=C4B5FD&line=8B7CFF&point=FF9BCB&area=true&hide_border=true" width="96%"/>
+![HTML5](https://img.shields.io/badge/HTML5-FF3E80?style=for-the-badge&logo=html5&logoColor=FFF6F0)
+![CSS3](https://img.shields.io/badge/CSS3-7B2FF7?style=for-the-badge&logo=css3&logoColor=FFF6F0)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB800?style=for-the-badge&logo=javascript&logoColor=15132A)
+![React](https://img.shields.io/badge/React-FF3E80?style=for-the-badge&logo=react&logoColor=FFF6F0)
+![Python](https://img.shields.io/badge/Python-7B2FF7?style=for-the-badge&logo=python&logoColor=FFF6F0)
+![Pandas](https://img.shields.io/badge/Pandas-FFB800?style=for-the-badge&logo=pandas&logoColor=15132A)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF3E80?style=for-the-badge&logo=streamlit&logoColor=FFF6F0)
+![Plotly](https://img.shields.io/badge/Plotly-7B2FF7?style=for-the-badge&logo=plotly&logoColor=FFF6F0)
+![Figma](https://img.shields.io/badge/Figma-FFB800?style=for-the-badge&logo=figma&logoColor=15132A)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF3E80?style=for-the-badge&logo=sublimetext&logoColor=FFF6F0)
+![Web3Forms](https://img.shields.io/badge/Web3Forms-7B2FF7?style=for-the-badge&logoColor=FFF6F0)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3E80,100:7B2FF7&height=3&section=header&width=100%"/>
 
-## ♢ My developer philosophy
-
-> **Good software should work well. Great software should also feel good to use.**
-
-I care about the small things — spacing, hierarchy, interaction, responsiveness, and the feeling a user gets while moving through an interface.
-
----
+## 🖼️ The Gallery (Currently Exploring)
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Make it useful. Make it beautiful."/>
-
-<br/>
-
-**[GitHub Profile](https://github.com/G-Abishek-M) · [All Projects](https://github.com/G-Abishek-M?tab=repositories)**
+| 🎨 | |
+|---|---|
+| **Learning** | HTML · CSS · JavaScript · ReactJS · Python |
+| **Building With** | Streamlit · Pandas · Plotly · Matplotlib |
+| **Designing In** | Figma |
+| **Coding In** | Sublime Text |
+| **Hardware** | 4GB RAM HP Pavilion g6 — lightweight tools by necessity |
+| **Open To** | Internship opportunities in AI/Data engineering |
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3E80,100:7B2FF7&height=3&section=header&width=100%"/>
+
+## 🗺️ Where To Find Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=FFF6F0)](https://linkedin.com/in/abishek-gm-521a25361)
+[![Email](https://img.shields.io/badge/Email-FFB800?style=for-the-badge&logo=gmail&logoColor=15132A)](mailto:gambishek2007@gmail.com)
+
+</div>
+
+<div align="center">
+<sub>⭐ Feel free to reach out if you'd like to collaborate! ⭐</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/G-Abishek-M/G-Abishek-M/main/assets/footer-stars.svg" width="100%"/>
