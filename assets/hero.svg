@@ -1,0 +1,101 @@
+<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="430" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#070A16"/>
+    <stop offset=".36" stop-color="#111634"/>
+    <stop offset=".68" stop-color="#211442"/>
+    <stop offset="1" stop-color="#090B19"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="180" y1="330" x2="1110" y2="70" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#67D9FF"/>
+    <stop offset=".32" stop-color="#8B7CFF"/>
+    <stop offset=".62" stop-color="#D18BFF"/>
+    <stop offset="1" stop-color="#FF9BCB"/>
+  </linearGradient>
+  <linearGradient id="title" x1="250" y1="145" x2="840" y2="210" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#F7F5FF"/>
+    <stop offset=".55" stop-color="#DCCFFF"/>
+    <stop offset="1" stop-color="#BFEAFF"/>
+  </linearGradient>
+  <radialGradient id="violet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 95) rotate(130) scale(310 280)">
+    <stop stop-color="#9B72FF" stop-opacity=".62"/>
+    <stop offset=".55" stop-color="#7C4DFF" stop-opacity=".14"/>
+    <stop offset="1" stop-color="#7C4DFF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="rose" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1110 330) rotate(215) scale(300 230)">
+    <stop stop-color="#FF91C8" stop-opacity=".48"/>
+    <stop offset=".55" stop-color="#D946EF" stop-opacity=".10"/>
+    <stop offset="1" stop-color="#D946EF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="cyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 355) rotate(25) scale(310 210)">
+    <stop stop-color="#67D9FF" stop-opacity=".35"/>
+    <stop offset="1" stop-color="#67D9FF" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur30" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="30"/>
+  </filter>
+  <filter id="blur10" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="10"/>
+  </filter>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+    <path d="M38 0H0V38" stroke="#D7D1FF" stroke-opacity=".045"/>
+  </pattern>
+  <clipPath id="clip"><rect width="1280" height="430" rx="30"/></clipPath>
+</defs>
+
+<g clip-path="url(#clip)">
+<rect width="1280" height="430" fill="url(#bg)"/>
+<rect width="1280" height="430" fill="url(#grid)"/>
+<rect width="1280" height="430" fill="url(#violet)"/>
+<rect width="1280" height="430" fill="url(#rose)"/>
+<rect width="1280" height="430" fill="url(#cyan)"/>
+
+<g filter="url(#blur30)" opacity=".7">
+  <ellipse cx="1010" cy="65" rx="115" ry="78" fill="#8B7CFF"/>
+  <ellipse cx="1100" cy="335" rx="100" ry="70" fill="#FF9BCB"/>
+  <ellipse cx="135" cy="360" rx="105" ry="65" fill="#67D9FF"/>
+</g>
+
+<path d="M-80 365C150 190 280 435 500 265C700 110 805 280 1050 125C1150 62 1220 58 1370 110"
+      stroke="url(#aurora)" stroke-opacity=".42" stroke-width="2.2"/>
+<path d="M-60 395C165 225 295 450 515 285C710 138 830 305 1060 150C1160 83 1240 80 1370 132"
+      stroke="url(#aurora)" stroke-opacity=".16" stroke-width="1"/>
+<path d="M-30 105C170 245 300 30 510 135C710 235 845 35 1080 190C1160 240 1230 235 1310 190"
+      stroke="#C9BCFF" stroke-opacity=".08" stroke-width="1"/>
+
+<g fill="#F7F5FF">
+  <circle cx="82" cy="72" r="1.5"/><circle cx="155" cy="122" r="1"/>
+  <circle cx="1165" cy="82" r="1.6"/><circle cx="1210" cy="145" r="1"/>
+  <circle cx="1040" cy="48" r="1"/><circle cx="340" cy="70" r="1.2"/>
+  <circle cx="920" cy="360" r="1.4"/><circle cx="690" cy="72" r="1"/>
+</g>
+
+<g transform="translate(92 68)">
+  <rect x="0" y="0" width="170" height="32" rx="16" fill="#12152D" fill-opacity=".72" stroke="#BFA8FF" stroke-opacity=".25"/>
+  <circle cx="22" cy="16" r="5" fill="#A78BFA"/>
+  <text x="38" y="21" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.4" fill="#D9D2F7">CREATIVE DEVELOPER</text>
+
+  <text x="0" y="106" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2.8" fill="url(#title)">ABISHEK GM</text>
+  <text x="2" y="143" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500" fill="#D8D5E9">Frontend  ·  AI  ·  Creative Technology</text>
+  <text x="2" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#9F9AB9">Building thoughtful interfaces, useful tools, and experimental digital experiences.</text>
+
+  <g transform="translate(0 216)">
+    <rect width="118" height="34" rx="17" fill="#11152B" stroke="#6DD7FF" stroke-opacity=".32"/>
+    <text x="20" y="22" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" fill="#BCEEFF">FRONTEND</text>
+    <rect x="128" width="78" height="34" rx="17" fill="#11152B" stroke="#A78BFA" stroke-opacity=".35"/>
+    <text x="150" y="22" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" fill="#DCCBFF">AI</text>
+    <rect x="216" width="118" height="34" rx="17" fill="#11152B" stroke="#FF9BCB" stroke-opacity=".32"/>
+    <text x="237" y="22" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" fill="#FFD2E6">UI / UX</text>
+  </g>
+</g>
+
+<g transform="translate(1000 150)">
+  <circle cx="92" cy="92" r="78" fill="#0A0D20" fill-opacity=".48" stroke="#C3AEFF" stroke-opacity=".28"/>
+  <circle cx="92" cy="92" r="57" fill="#12152F" fill-opacity=".72" stroke="#75DFFF" stroke-opacity=".22"/>
+  <path d="M58 106C70 73 103 61 130 82C115 84 101 95 96 113C82 117 69 115 58 106Z" fill="#A78BFA" fill-opacity=".72"/>
+  <path d="M77 72C84 55 106 48 122 61C108 64 98 72 92 84C85 82 80 78 77 72Z" fill="#FF9BCB" fill-opacity=".72"/>
+  <circle cx="92" cy="92" r="88" stroke="url(#aurora)" stroke-opacity=".24" stroke-dasharray="3 11"/>
+</g>
+</g>
+<rect x=".75" y=".75" width="1278.5" height="428.5" rx="29.25" stroke="#C7B7FF" stroke-opacity=".22" stroke-width="1.5"/>
+</svg>

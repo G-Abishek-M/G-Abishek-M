@@ -1,0 +1,15 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1200" y2="170" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0A0D20"/><stop offset=".5" stop-color="#191433"/><stop offset="1" stop-color="#0A0D20"/>
+</linearGradient>
+<linearGradient id="t" x1="360" y1="70" x2="840" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#67D9FF"/><stop offset=".5" stop-color="#C4B5FD"/><stop offset="1" stop-color="#FF9BCB"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="170" rx="26" fill="url(#b)"/>
+<path d="M0 135C180 80 290 190 480 125C690 53 820 177 1010 112C1090 85 1150 82 1200 95" stroke="url(#t)" stroke-opacity=".24"/>
+<text x="600" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="url(#t)">MAKE IT USEFUL. MAKE IT BEAUTIFUL.</text>
+<text x="600" y="102" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#9F9AB9">Thanks for exploring my corner of GitHub ✦</text>
+<circle cx="540" cy="72" r="2" fill="#67D9FF"/><circle cx="660" cy="72" r="2" fill="#FF9BCB"/>
+</svg>
